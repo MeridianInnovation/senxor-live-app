@@ -1,0 +1,9 @@
+# Ignore everything in this branch
+*
+
+# Release documentation only
+!.gitignore
+!README.md
+!CHANGELOG.md
+!docs/
+!docs/**
