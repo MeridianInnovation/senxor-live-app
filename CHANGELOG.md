@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.1.1] - 2026-06-18
+
+### Fix
+
+- Fix the bug that `Settings/Device Config/Reset to Default` can't reset profiles correctly
+- Fix issues related to version update checking
+
 ## [v1.1.0] - 2026-06-15
 
 ### Feat
