@@ -1,5 +1,11 @@
 # Changelog
 
+## [demo/cooktop] - 2026-06-18
+
+### Feat
+
+- Add a new demo page for cooktop monitoring
+
 ## [v1.1.1] - 2026-06-18
 
 ### Fix
