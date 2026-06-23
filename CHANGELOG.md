@@ -1,5 +1,19 @@
 # Changelog
 
+## [v1.1.2] - 2026-06-23
+
+### Feat
+
+- The app now automatically attempts to connect to your first available device when opening.
+- When crosshairs are enabled, the app can now automatically locate the screen center.
+- The temperature info card now shows average temperature instead of center temperature.
+- Access to the Settings page has been moved from More Features to the top drawer for quicker navigation.
+
+### Fix
+
+- Fixed an issue where the device picker modal could be covered by the loading overlay.
+- Fixed text alignment in the "Update Available" dialog.
+
 ## [v1.1.1] - 2026-06-18
 
 ### Fix
