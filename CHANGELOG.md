@@ -1,5 +1,12 @@
 # Changelog
 
+## [v1.1.3] - 2026-11-12
+
+### Feat
+
+- Rotate the thermal preview in 90° steps using **Image Rotation** in Settings.
+- Switch temperature readings and color scale limits between °C and °F using **Temperature Unit** in Settings.
+
 ## [v1.1.2] - 2026-06-23
 
 ### Feat
